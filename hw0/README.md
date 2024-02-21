@@ -1,3 +1,7 @@
+![](./src/figure2.png)
+
+![](./src/figure3.png)
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
